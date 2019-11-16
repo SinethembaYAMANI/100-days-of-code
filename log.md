@@ -1,30 +1,37 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: November 16, 2019 (Project Planning)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: 
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+“Patients are the most underutilized resource in health care” – Warner Slack, 1933-2018. 
 
-**Link to work:** [Calculator App](http://www.example.com)
+After publicly committing to the #100DaysOfCode challenge (Nov 2019), I've decided to spend the next 3 months building an e-patient IoT application to allow health concerned patients to participate fully in their medical care. 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+The aim is to build a wearable device "a Thing (sensor)" that measures vital health signs, such as heart rate, blood pressure, body temperature etc. Each "Thing" will have the ability to connect to the "Internet" for data logging and analysis. Every e-patient will use the "Thing" and connect to the "Internet" to establish a database of "the Internet Of Things" (IoT).
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+Poll is currently live on Twitter(Nov 16, 2019). Challenge updates:
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+Daily on twitter/Github  
+Weekly: Facebook and Instagram
+Monthly: Youtube progress videos
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+#100DaysOfCode #IoT #4IR #FreeHealthCare #epatient
+
+1. Electrocardiogram (ECG), Electrocardiograms (ECGs) are among the most widely used biosignals, as a diagnostic tool in healthcare environment, providing information of the cardiac electrical cycle [1].
+2. Heart Rate (HR), Heart rate (HR) is a standard vital sign and has become a routine measurement in both healthcare and fitness/sport activities [1].
+3. Blood Pressure (BP), Blood pressure (BP) is considered the most important cardiopulmonary parameter, indicating the pressure exerted by blood against the arterial wall [1]. 
+4. Respiration Rate (RR), Respiration rate (RR) is a fundamental physiologic parameter in patient’s observation. In critical illnesses, this is one of the most sensitive indicators such as in case of distress and potential hypoxia [1].
+5. Blood Oxygen Saturation (SpO2), Blood oxygen saturation (SpO2) is an extremely valuable vital parameter and easy to measure using photoplethysmography (PPG) technology and pulse oximetry principles. The PPG method enables to acquire blood vessel variation waveform, and when measured using two wavelengths (normally 660 nm and 905 nm) it is possible to estimate blood oxygen saturation [1].
+6. Blood Glucose (BG), Blood glucose (BG) is a worldwide measurement need in diabetic’s subjects. It is not measured in a normal procedure of a clinical environment but is important in diabetic global population [1].
+7. Skin Perspiration, Skin perspiration is not a clinical parameter, but a physiological sign used to analyse human reaction to several situations. Life situations can cause neurological reactions from the autonomic nervous system (ANS) stimulating an increase of skin sweating [1].
+8. Capnography, Blood oxygen saturation measurement by pulse oximetry is a widely used method to access arterial oxygenation but it is not a good method for human ventilation assessment. Capnography is a non-invasive and cost-effective method to evaluate human ventilation, indicating the carbon monoxide levels present in the respiration cycle, being very useful to avoid clinical problems and ensure patient safety [1].
+9. Body Temperature, Body temperature (BT) is the outcome of the balance between heat production and heat loss in the body, being its measurement vital to avoid many elements defunctionalisation due to high temperatures [1].
 
 
-### Day 1: June 27, Monday
+**Thoughts:** 
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Link to work:** 
+[1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6111409/
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
