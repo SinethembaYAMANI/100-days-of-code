@@ -35,3 +35,17 @@ Monthly: Youtube progress videos
 [1] https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6111409/
 
 
+### Day 2: November 16, 2019 (Development Hardware and Software selection)
+
+**Today's Progress**: 
+
+Today, I decided on the hardware and software tools to use for developing my E-patient IoT platform. I selected the NodeMCU E-12 wifi board and microcontroller as my IoT platform of choice. And also went with MicroPython over c/c++ as the programming language. After an hour of trying to figure out how to install the MicroPython firmware on the NodeMCU controller for use on Windows OS, I was able to successfully run a blinky example program using the uPyCraft editor. I’ve linked the website below of the tutorial that I used to successfully load firmware and program a blinky using uPyCraft[2].
+
+**Thoughts:** 
+
+I don’t necessarily have the project planned out in detail yet, but I kind of have an idea of what I want to end up with. I’ve written basic code on Python before using a raspberry pi and also used the ESP-03 wifi module with a Nucleo-F446RE board. However, I have never written a large script on Python and also never used the wifi module to its full capacity, hence I selected the NodeMCU microcontroller and MicroPython programming language. Soon coming is my design layout and code to be hosted on this Github repo. 
+
+
+**Link to work:** 
+ 
+[2] https://randomnerdtutorials.com/getting-started-micropython-esp32-esp8266/
